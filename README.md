@@ -76,7 +76,8 @@
     <div class="grid">
         <!-- Canter Euro 4 -->
         <div class="card">
-            <img src="C:\Users\Admin\Downloads\8.-Slider-Canter-PC.jpg" alt="Canter">
+            <img src="<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/0cbddf28-e24d-496e-9d8f-45ea03c4b0cc" />
+">
             <div class="card-info">
                 <h3>Mitsubishi Canter</h3>
                 <p>Si Raja Jalanan Euro 4. Truk paling lincah dan irit untuk bisnis logistik Anda.</p>
